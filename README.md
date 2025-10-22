@@ -59,9 +59,7 @@ Passionate about leveraging **data and automation** to drive AI innovation, opti
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=aminebouanani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=aminebouanani&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aminebouanani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=aminebouanani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=aminebouanani&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aminebouanani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
