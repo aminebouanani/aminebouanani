@@ -64,7 +64,7 @@ Passionate about leveraging **data and automation** to drive AI innovation, opti
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aminebouanani&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=1800" alt="Amine's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminebouanani&theme=dark&hide_border=false&cache_seconds=1800" alt="Amine's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=aminebouanani&theme=dark&hide_border=false&cache_seconds=1800" alt="Amine's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminebouanani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Amine's Top Languages" />
 </p>
 
