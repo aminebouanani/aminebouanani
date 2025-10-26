@@ -5,7 +5,7 @@
 
 ---
 
-### 💫 About Me
+### 💫 About Me  
 I'm a **Data Science graduate** with a **Bachelor’s in Statistics and Data Science**, currently pursuing an **Engineering degree in Data Science and Business Intelligence** and a **Master’s in Artificial Intelligence and Digital Science**.  
 I’m skilled in **Data Science, Data Analysis, Business Intelligence, and Automation** using **Python, R, SQL, Tableau, Power BI, and n8n**.  
 
@@ -14,21 +14,23 @@ Passionate about leveraging **data and automation** to drive AI innovation, opti
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-bouanani-8944992b6)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ami__ne_b.13)
+### 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-bouanani-8944992b6)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ami__ne_b.13)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminebouanani03@gmail.com)
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack  
+
+#### 🧰 Languages  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### 🧠 Frameworks & Tools
+#### ⚙️ Frameworks & Tools  
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -38,7 +40,7 @@ Passionate about leveraging **data and automation** to drive AI innovation, opti
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
-#### 🧩 Data & Cloud
+#### 🧩 Data & Cloud  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -48,7 +50,7 @@ Passionate about leveraging **data and automation** to drive AI innovation, opti
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-#### 📈 AI & Data Science
+#### 📈 AI & Data Science  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -58,15 +60,22 @@ Passionate about leveraging **data and automation** to drive AI innovation, opti
 
 ---
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=aminebouanani&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=aminebouanani&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aminebouanani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📊 GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aminebouanani&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=1800" alt="Amine's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminebouanani&theme=dark&hide_border=false&cache_seconds=1800" alt="Amine's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminebouanani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Amine's Top Languages" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=aminebouanani&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=aminebouanani&icon=0&color=0" alt="Profile Views" />
+  </a>
+</p>
+
+---
 
 <!-- 💡 Designed & customized by Amine Bouanani -->
-
